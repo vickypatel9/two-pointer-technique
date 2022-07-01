@@ -2,7 +2,8 @@ package firstproject;
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+                                   // we want to find triplet A ,B ,C such that A+B+C=0 .
+ 
 public class Test3 {
 	public static void main(String[] args) {
 		int []arr= {-3,6,-2,4,7,-4,-3};
